@@ -52,5 +52,5 @@ vagrant@vagrant-ubuntu-trusty-32:/vagrant/tournament$ python tournament_test.py
 
 ## Support
 
-If you have any issues about the movie trailer website, please let me know.
+If you have any issues about this, please let me know.
 My email address is yanhong.zhou05@gmail.com.
